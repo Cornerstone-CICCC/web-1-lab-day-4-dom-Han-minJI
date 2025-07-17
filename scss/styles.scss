@@ -56,4 +56,26 @@ body {
       }
     }
   }
+
+
+}
+
+#employees{
+  thead{
+    background-color: rgb(169, 168, 168);
+    
+    th{
+      padding: 0 15px;
+    }
+  }
+
+  tbody{
+    td{
+      padding: 10px;
+
+      img{
+        height: 50px;
+      }
+    }
+  }
 }

@@ -52,4 +52,17 @@ body {
   padding: 0.25rem;
 }
 
+#employees thead {
+  background-color: rgb(169, 168, 168);
+}
+#employees thead th {
+  padding: 0 15px;
+}
+#employees tbody td {
+  padding: 10px;
+}
+#employees tbody td img {
+  height: 50px;
+}
+
 /*# sourceMappingURL=styles.css.map */
