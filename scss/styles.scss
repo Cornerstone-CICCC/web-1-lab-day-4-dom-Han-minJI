@@ -70,12 +70,21 @@ body {
   }
 
   tbody{
-    td{
-      padding: 10px;
 
-      img{
-        height: 50px;
+
+
+    tr{
+      background-color: #eee;
+
+      td{
+        padding: 20px;
+
+        img{
+          height: 50px;
+        }
       }
+
     }
+    
   }
 }

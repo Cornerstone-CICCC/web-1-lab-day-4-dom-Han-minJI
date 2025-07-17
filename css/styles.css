@@ -58,10 +58,13 @@ body {
 #employees thead th {
   padding: 0 15px;
 }
-#employees tbody td {
-  padding: 10px;
+#employees tbody tr {
+  background-color: #eee;
 }
-#employees tbody td img {
+#employees tbody tr td {
+  padding: 20px;
+}
+#employees tbody tr td img {
   height: 50px;
 }
 
